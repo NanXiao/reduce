@@ -1,4 +1,4 @@
-# ReduceAddition
+# Reduce
 A simple reduce template implemented in C++.
 ## Example
 
